@@ -1,0 +1,27 @@
+{
+  "name": "အတွေးကမ္ဘာ",
+  "short_name": "အတွေးကမ္ဘာ",
+  "description": "Myanmar Book Quotes for Youth — A Twe Kabar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#c084fc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["books", "education", "lifestyle"],
+  "lang": "my",
+  "screenshots": []
+}
